@@ -2,7 +2,7 @@
 # name
 **KAI YUI YEUNG**
 ## education
-*College: UCSD, math cs*
+*College: UCSD, math cs* [my intro](#introduction)
 
 
 
