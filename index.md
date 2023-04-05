@@ -1,6 +1,6 @@
 ![funny cat](interesting-cat-facts.jpg)
 **KAI YUI YEUNG**
-*College: UCSD, math cs GPA:4.0*
+*College: UCSD, math cs*
 
 
 
